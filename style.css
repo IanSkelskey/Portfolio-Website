@@ -1,10 +1,24 @@
-.body {
+body {
   background-color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+  margin: auto;
+  width: 80%;
+}
+
+#blurb {
+width: 75%;
+float:right;
 }
 
 #profilepic {
-  margin: auto;
+  float: left;
   height: 25%;
   width: 25%;
   border-radius: 50%;
+  border-color: darkgray;
+  border-style: solid;
+  border-width: 2px;
 }
