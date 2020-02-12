@@ -1,3 +1,7 @@
+.body {
+  background-color: lightgrey;
+}
+
 #profilepic {
   margin: auto;
   height: 25%;
